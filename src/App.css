@@ -1,0 +1,15 @@
+.App-Topic {
+  color: white;
+  margin: 0px;
+}
+
+.CSConfirmButton {
+  height: 50px;
+  width: 100px;
+  padding: 10px;
+  color: black;
+  background: none;
+  margin: 10px;
+  border-radius: 0;
+  font-size: 15px;
+}

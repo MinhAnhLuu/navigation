@@ -1,0 +1,91 @@
+{
+  "optionList": [
+    {
+      "id": "01",
+      "property": "Maximum Order"
+    },
+    {
+      "id": "02",
+      "property": "Number of Simulation Points"
+    },
+    {
+      "id": "03",
+      "property": "Delay (ns)"
+    },
+    {
+      "id": "04",
+      "property": "Rise time (ns)"
+    },
+    {
+      "id": "05",
+      "property": "Fall time (ns)"
+    },
+    {
+      "id": "06",
+      "property": "Pulse Width (ns)"
+    },
+    {
+      "id": "07",
+      "property": "Pulse Period (ns)"
+    },
+    {
+      "id": "08",
+      "property": "Duration of Simulation (ns)"
+    },
+    {
+      "id": "09",
+      "property": "Port 1 Impedance (Ohms)"
+    },
+    {
+      "id": "10",
+      "property": "Port 2 Impedance (Ohms)"
+    },
+    {
+      "id": "11",
+      "property": "Port 3 Impedance (Ohms)"
+    },
+    {
+      "id": "12",
+      "property": "Port 4 Impedance (Ohms)"
+    },
+    {
+      "id": "13",
+      "property": "Input Wareform Mangitude in Port 1 (Volts)"
+    },
+    {
+      "id": "14",
+      "property": "Input Wareform Mangitude in Port 2 (Volts)"
+    },
+    {
+      "id": "15",
+      "property": "Input Wareform Mangitude in Port 3 (Volts)"
+    },
+    {
+      "id": "16",
+      "property": "Input Wareform Mangitude in Port 4 (Volts)"
+    },
+    {
+      "id": "17",
+      "property": "Order of approximation"
+    },
+    {
+      "id": "18",
+      "property": "Automatic order switch"
+    },
+    {
+      "id": "19",
+      "property": "Passivity Enforcement Switch"
+    },
+    {
+      "id": "20",
+      "property": "Interpolation Scaling Factor"
+    },
+    {
+      "id": "21",
+      "property": "Log Frequency Switch"
+    },
+    {
+      "id": "22",
+      "property": "Order Formula Index"
+    }]
+}

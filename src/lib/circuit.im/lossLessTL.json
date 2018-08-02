@@ -1,0 +1,135 @@
+[
+    {
+        "typeID": "Ground",
+        "id": "b7afcc99-0706-4011-8a32-9e0d2f97edd6",
+        "dragPoints": [
+            {
+                "x": 80,
+                "y": 340
+            },
+            {
+                "x": 80,
+                "y": 400
+            }
+        ]
+    },
+    {
+        "typeID": "Ground",
+        "id": "2e10dbc4-7600-4e58-9f09-36dfc177ae7c",
+        "dragPoints": [
+            {
+                "x": 400,
+                "y": 340
+            },
+            {
+                "x": 400,
+                "y": 400
+            }
+        ]
+    },
+    {
+        "typeID": "VoltageSourceG",
+        "id": "bfa80973-d978-4e1c-9b53-e3c9d9588c4d",
+        "editables": {
+            "timeDelay": {
+                "value": 1
+            },
+            "riseTime": {
+                "value": 1
+            },
+            "fallTime": {
+                "value": 1
+            },
+            "pulseWidth": {
+                "value": 20
+            },
+            "pulseAmplitude": {
+                "value": 4
+            }
+        },
+        "dragPoints": [
+            {
+                "x": 80,
+                "y": 340
+            },
+            {
+                "x": 80,
+                "y": 200
+            }
+        ]
+    },
+    {
+        "typeID": "Resistor",
+        "id": "7e5c02d5-ff47-4dda-b45a-938af286caf1",
+        "editables": {
+            "resistance": {
+                "value": 1000
+            }
+        },
+        "dragPoints": [
+            {
+                "x": 80,
+                "y": 200
+            },
+            {
+                "x": 160,
+                "y": 200
+            }
+        ]
+    },
+    {
+        "typeID": "Resistor",
+        "id": "ee3a06d5-125d-4ab8-b903-913e77b1ab9f",
+        "editables": {
+            "resistance": {
+                "value": 1000
+            }
+        },
+        "dragPoints": [
+            {
+                "x": 320,
+                "y": 200
+            },
+            {
+                "x": 400,
+                "y": 200
+            }
+        ]
+    },
+    {
+        "typeID": "Wire",
+        "id": "a4a8b736-29a1-487f-8964-d4577538e296",
+        "dragPoints": [
+            {
+                "x": 400,
+                "y": 200
+            },
+            {
+                "x": 400,
+                "y": 340
+            }
+        ]
+    },
+    {
+        "typeID": "ResistorT",
+        "id": "c4eccb6f-ced6-494b-9d2d-06e8035a722e",
+        "editables": {
+            "resistance": {
+                "value": 1000
+            },
+            "timeFly": {
+                "value": 2.37
+            }
+        },
+        "dragPoints": [
+            {
+                "x": 160,
+                "y": 200
+            },
+            {
+                "x": 320,
+                "y": 200
+            }
+        ]
+    }
+]

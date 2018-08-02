@@ -1,0 +1,72 @@
+[
+  {
+    "label" : "Z0 = ",
+    "name" : "z0",
+    "value" : 75,
+    "max" : 100,
+    "min" : 0
+  },
+  {
+    "label" : "tfly = ",
+    "name" : "tfly",
+    "value" : 2.37,
+    "max" : 10,
+    "min" : 0
+  },
+  {
+    "label" : "Zs = ",
+    "name" : "zs",
+    "value" : 50,
+    "max" : 100,
+    "min" : 0
+  },
+  {
+    "label" : "Zl = ",
+    "name" : "zl",
+    "value" : 1000,
+    "max" : 2000,
+    "min" : 0
+  },
+  {
+    "label" : "time delay: td = ",
+    "name" : "tdelay",
+    "value" : 1.0,
+    "max" : 100,
+    "min" : 0
+  },
+  {
+    "label" : "rise time: tr = ",
+    "name" : "trise",
+    "value" : 1.5,
+    "max" : 100,
+    "min" : 0
+  },
+  {
+    "label" : "fall time: tf = ",
+    "name" : "tfall",
+    "value" : 1.0,
+    "max" : 10,
+    "min" : 0
+  },
+  {
+    "label" : "pulse width: tw = ",
+    "name" : "twidth",
+    "value" : 20.0,
+    "max" : 100,
+    "min" : 0
+  },
+  {
+    "label" : "pulse amplitude: Vmax = ",
+    "name" : "vm",
+    "value" : 4.0,
+    "max" : 10,
+    "min" : 0
+  },
+  {
+    "label" : "time max: tmax = ",
+    "name" : "tmax",
+    "value" : 100,
+    "max" : 200,
+    "min" : 0
+  }
+]

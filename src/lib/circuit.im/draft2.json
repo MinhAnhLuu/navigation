@@ -1,0 +1,19 @@
+[
+    [
+        {
+            "typeID": "BlackBox",
+            "id": "edebc012-1dbe-4bd5-8d17-8a9e27936e29",
+            "editables": {
+                "resistance": {
+                    "value": 50
+                }
+            },
+            "dragPoints": [
+                {
+                    "x": 560,
+                    "y": 200
+                }
+            ]
+        }
+    ]
+]

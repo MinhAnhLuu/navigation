@@ -1,0 +1,8 @@
+.sideBar {
+width: 100%;
+  top:0px;
+  overflow: hidden;
+  position: absolute;
+  padding: 0px;
+  height: 50%
+}

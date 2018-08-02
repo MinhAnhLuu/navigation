@@ -1,0 +1,432 @@
+{
+    "76756fe7-2ed0-46eb-aaf9-4af90d36bbee": {
+        "typeID": "Resistor",
+        "id": "76756fe7-2ed0-46eb-aaf9-4af90d36bbee",
+        "editables": {
+            "resistance": {
+                "value": 5000
+            }
+        },
+        "dragPoints": [
+            {
+                "x": 220,
+                "y": 200
+            },
+            {
+                "x": 700,
+                "y": 200
+            }
+        ],
+        "tConnectors": [
+            {
+                "x": -240,
+                "y": 0
+            },
+            {
+                "x": 240,
+                "y": 0
+            }
+        ],
+        "connectors": [
+            {
+                "x": 220,
+                "y": 200
+            },
+            {
+                "x": 700,
+                "y": 200
+            }
+        ],
+        "currentOffsets": [
+            1.2905696230950812
+        ],
+        "extraOffsets": [
+            0
+        ],
+        "hovered": false,
+        "dragPointIndex": null
+    },
+    "924c7b0e-21de-46d6-9ef4-e152033a145d": {
+        "typeID": "Resistor",
+        "id": "924c7b0e-21de-46d6-9ef4-e152033a145d",
+        "editables": {
+            "resistance": {
+                "value": 1000
+            }
+        },
+        "dragPoints": [
+            {
+                "x": 220,
+                "y": 200
+            },
+            {
+                "x": 220,
+                "y": 380
+            }
+        ],
+        "tConnectors": [
+            {
+                "x": -90,
+                "y": 0
+            },
+            {
+                "x": 90,
+                "y": 0
+            }
+        ],
+        "connectors": [
+            {
+                "x": 220,
+                "y": 200
+            },
+            {
+                "x": 220,
+                "y": 380
+            }
+        ],
+        "currentOffsets": [
+            0.4094303769049695
+        ],
+        "extraOffsets": [
+            0
+        ],
+        "hovered": false,
+        "dragPointIndex": null
+    },
+    "45df31c5-304d-43bf-8883-97d51744d722": {
+        "typeID": "Resistor",
+        "id": "45df31c5-304d-43bf-8883-97d51744d722",
+        "editables": {
+            "resistance": {
+                "value": 3000
+            }
+        },
+        "dragPoints": [
+            {
+                "x": 300,
+                "y": 200
+            },
+            {
+                "x": 300,
+                "y": 380
+            }
+        ],
+        "tConnectors": [
+            {
+                "x": -90,
+                "y": 0
+            },
+            {
+                "x": 90,
+                "y": 0
+            }
+        ],
+        "connectors": [
+            {
+                "x": 300,
+                "y": 200
+            },
+            {
+                "x": 300,
+                "y": 380
+            }
+        ],
+        "currentOffsets": [
+            10
+        ],
+        "extraOffsets": [
+            0
+        ],
+        "hovered": false,
+        "dragPointIndex": null
+    },
+    "153b7424-95ea-4ca1-9073-aaf3efe3f9ad": {
+        "typeID": "Resistor",
+        "id": "153b7424-95ea-4ca1-9073-aaf3efe3f9ad",
+        "editables": {
+            "resistance": {
+                "value": 2000
+            }
+        },
+        "dragPoints": [
+            {
+                "x": 220,
+                "y": 380
+            },
+            {
+                "x": 220,
+                "y": 520
+            }
+        ],
+        "tConnectors": [
+            {
+                "x": -70,
+                "y": 0
+            },
+            {
+                "x": 70,
+                "y": 0
+            }
+        ],
+        "connectors": [
+            {
+                "x": 220,
+                "y": 380
+            },
+            {
+                "x": 220,
+                "y": 520
+            }
+        ],
+        "currentOffsets": [
+            19.168545117532993
+        ],
+        "extraOffsets": [
+            0
+        ],
+        "hovered": false,
+        "dragPointIndex": null
+    },
+    "cbfbf0a1-4754-4849-aa75-f446a2128ad4": {
+        "typeID": "Resistor",
+        "id": "cbfbf0a1-4754-4849-aa75-f446a2128ad4",
+        "editables": {
+            "resistance": {
+                "value": 7000
+            }
+        },
+        "dragPoints": [
+            {
+                "x": 700,
+                "y": 200
+            },
+            {
+                "x": 700,
+                "y": 380
+            }
+        ],
+        "tConnectors": [
+            {
+                "x": -90,
+                "y": 0
+            },
+            {
+                "x": 90,
+                "y": 0
+            }
+        ],
+        "connectors": [
+            {
+                "x": 700,
+                "y": 200
+            },
+            {
+                "x": 700,
+                "y": 380
+            }
+        ],
+        "currentOffsets": [
+            1.2905696230950812
+        ],
+        "extraOffsets": [
+            0
+        ],
+        "hovered": false,
+        "dragPointIndex": null
+    },
+    "f530fac0-4a13-41b0-ac65-b1162155638d": {
+        "typeID": "Resistor",
+        "id": "f530fac0-4a13-41b0-ac65-b1162155638d",
+        "editables": {
+            "resistance": {
+                "value": 6000
+            }
+        },
+        "dragPoints": [
+            {
+                "x": 620,
+                "y": 200
+            },
+            {
+                "x": 620,
+                "y": 380
+            }
+        ],
+        "tConnectors": [
+            {
+                "x": -90,
+                "y": 0
+            },
+            {
+                "x": 90,
+                "y": 0
+            }
+        ],
+        "connectors": [
+            {
+                "x": 620,
+                "y": 200
+            },
+            {
+                "x": 620,
+                "y": 380
+            }
+        ],
+        "currentOffsets": [
+            10
+        ],
+        "extraOffsets": [
+            0
+        ],
+        "hovered": false,
+        "dragPointIndex": null
+    },
+    "6ffbfaf8-ba66-455f-8189-0b59ff2d5b06": {
+        "typeID": "Resistor",
+        "id": "6ffbfaf8-ba66-455f-8189-0b59ff2d5b06",
+        "editables": {
+            "resistance": {
+                "value": 4000
+            }
+        },
+        "dragPoints": [
+            {
+                "x": 700,
+                "y": 380
+            },
+            {
+                "x": 220,
+                "y": 380
+            }
+        ],
+        "tConnectors": [
+            {
+                "x": -240,
+                "y": 0
+            },
+            {
+                "x": 240,
+                "y": 0
+            }
+        ],
+        "connectors": [
+            {
+                "x": 700,
+                "y": 380
+            },
+            {
+                "x": 220,
+                "y": 380
+            }
+        ],
+        "currentOffsets": [
+            1.4091645589386697
+        ],
+        "extraOffsets": [
+            0
+        ],
+        "hovered": false,
+        "dragPointIndex": null
+    },
+    "30738e26-cfe4-4698-a0c4-5ef16546ca40": {
+        "typeID": "VoltageSource",
+        "id": "30738e26-cfe4-4698-a0c4-5ef16546ca40",
+        "editables": {
+            "type": {
+                "value": "DC"
+            },
+            "voltage": {
+                "value": 5
+            },
+            "frequency": {
+                "value": 500,
+                "zeroTime": 0
+            }
+        },
+        "dragPoints": [
+            {
+                "x": 220,
+                "y": 520
+            },
+            {
+                "x": 700,
+                "y": 520
+            }
+        ],
+        "tConnectors": [
+            {
+                "x": -240,
+                "y": 0
+            },
+            {
+                "x": 240,
+                "y": 0
+            }
+        ],
+        "connectors": [
+            {
+                "x": 220,
+                "y": 520
+            },
+            {
+                "x": 700,
+                "y": 520
+            }
+        ],
+        "currentOffsets": [
+            18.31854511753337
+        ],
+        "extraOffsets": [
+            0
+        ],
+        "hovered": false,
+        "dragPointIndex": null
+    },
+    "8682e4d6-7c77-42ad-a2fb-472dc2accd42": {
+        "typeID": "Resistor",
+        "id": "8682e4d6-7c77-42ad-a2fb-472dc2accd42",
+        "editables": {
+            "resistance": {
+                "value": 8000
+            }
+        },
+        "dragPoints": [
+            {
+                "x": 700,
+                "y": 380
+            },
+            {
+                "x": 700,
+                "y": 520
+            }
+        ],
+        "tConnectors": [
+            {
+                "x": -70,
+                "y": 0
+            },
+            {
+                "x": 70,
+                "y": 0
+            }
+        ],
+        "connectors": [
+            {
+                "x": 700,
+                "y": 380
+            },
+            {
+                "x": 700,
+                "y": 520
+            }
+        ],
+        "currentOffsets": [
+            2.4110863821620416
+        ],
+        "extraOffsets": [
+            0
+        ],
+        "hovered": false,
+        "dragPointIndex": null
+    }
+}

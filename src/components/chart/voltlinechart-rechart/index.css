@@ -1,0 +1,21 @@
+.SelectedLineList {
+  display: inline;
+}
+
+.LLTLChart {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-auto-rows: minmax(auto, auto);
+  height: 85%;
+}
+
+.LineChart {
+  grid-column: 1 / 4;
+  grid-row: 1/2;
+}
+
+.ChartConfiguration {
+  margin: 10px;
+  grid-column: 4;
+  grid-row: 1/2;
+}

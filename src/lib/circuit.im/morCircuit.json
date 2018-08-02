@@ -1,0 +1,219 @@
+[
+    {
+        "typeID": "Ground",
+        "id": "8d3aca43-f8e5-43de-aa0e-8d2a6518d300",
+        "dragPoints": [
+            {
+                "x": 560,
+                "y": 360
+            },
+            {
+                "x": 560,
+                "y": 420
+            }
+        ]
+    },
+    {
+        "typeID": "Wire",
+        "id": "2b781fe8-eebb-4b07-b0d5-66c4ee5db265",
+        "dragPoints": [
+            {
+                "x": 560,
+                "y": 280
+            },
+            {
+                "x": 560,
+                "y": 240
+            }
+        ]
+    },
+    {
+        "typeID": "Wire",
+        "id": "ffe0b044-2673-440f-8c71-a744bbb55da3",
+        "dragPoints": [
+            {
+                "x": 600,
+                "y": 320
+            },
+            {
+                "x": 600,
+                "y": 160
+            }
+        ]
+    },
+    {
+        "typeID": "Resistor",
+        "id": "ca9e2350-426b-4616-b616-0601fa16d721",
+        "editables": {
+            "resistance": {
+                "value": 1000
+            }
+        },
+        "dragPoints": [
+            {
+                "x": 520,
+                "y": 160
+            },
+            {
+                "x": 400,
+                "y": 160
+            }
+        ]
+    },
+    {
+        "typeID": "BlackBox",
+        "id": "edebc012-1dbe-4bd5-8d17-8a9e27936e29",
+        "editables": {
+            "ExcitationPort": {
+                "value": 4  
+            },
+            "SNPFile": {
+                "value": "s2p.txt"
+            }
+        },
+        "dragPoints": [
+            {
+                "x": 560,
+                "y": 320
+            },
+            {
+                "x": 520,
+                "y": 280
+            }
+        ]
+    },
+    {
+        "typeID": "Resistor",
+        "id": "648cb031-57f6-485f-bab6-d00d42f5f002",
+        "editables": {
+            "resistance": {
+                "value": 1000
+            }
+        },
+        "dragPoints": [
+            {
+                "x": 520,
+                "y": 240
+            },
+            {
+                "x": 400,
+                "y": 240
+            }
+        ]
+    },
+    {
+        "typeID": "Resistor",
+        "id": "aacc1061-8cc6-435f-9dc8-0426f0907729",
+        "editables": {
+            "resistance": {
+                "value": 1000
+            }
+        },
+        "dragPoints": [
+            {
+                "x": 520,
+                "y": 320
+            },
+            {
+                "x": 400,
+                "y": 320
+            }
+        ]
+    },
+    {
+        "typeID": "Ground",
+        "id": "7c6eff3a-2641-49ee-ac6b-365bc5e61c08",
+        "dragPoints": [
+            {
+                "x": 400,
+                "y": 160
+            },
+            {
+                "x": 340,
+                "y": 160
+            }
+        ]
+    },
+    {
+        "typeID": "Ground",
+        "id": "a0e2d8e9-8a0d-4cb6-b3d4-f5d7a2877f9a",
+        "dragPoints": [
+            {
+                "x": 400,
+                "y": 320
+            },
+            {
+                "x": 340,
+                "y": 320
+            }
+        ]
+    },
+    {
+        "typeID": "VoltageSource",
+        "id": "bc95407d-e82e-47c8-947d-25c0e1a9c3c8",
+        "editables": {
+            "type": {
+                "value": "DC"
+            },
+            "voltage": {
+                "value": 5
+            },
+            "frequency": {
+                "value": 500,
+                "zeroTime": 0
+            }
+        },
+        "dragPoints": [
+            {
+                "x": 400,
+                "y": 240
+            },
+            {
+                "x": 320,
+                "y": 240
+            }
+        ]
+    },
+    {
+        "typeID": "Ground",
+        "id": "80edfc80-e2cc-4a36-b45d-8e808869a004",
+        "dragPoints": [
+            {
+                "x": 320,
+                "y": 240
+            },
+            {
+                "x": 260,
+                "y": 240
+            }
+        ]
+    },
+    {
+        "typeID": "Wire",
+        "id": "2a814e8f-5e90-4024-8fcd-37f54151e095",
+        "dragPoints": [
+            {
+                "x": 560,
+                "y": 240
+            },
+            {
+                "x": 520,
+                "y": 240
+            }
+        ]
+    },
+    {
+        "typeID": "Wire",
+        "id": "aafabbbe-db44-48b4-9e59-be9ba805f964",
+        "dragPoints": [
+            {
+                "x": 600,
+                "y": 160
+            },
+            {
+                "x": 520,
+                "y": 160
+            }
+        ]
+    }
+]
